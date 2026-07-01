@@ -1,0 +1,15 @@
+# executaveis
+gerador
+*.exe
+
+# arquivos gerados
+*.txt
+
+# debug do mac
+*.dSYM/
+
+# saida do projeto
+output/
+
+# vs Code
+.vscode/
